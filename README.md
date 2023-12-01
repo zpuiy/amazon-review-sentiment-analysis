@@ -31,7 +31,7 @@ Data can be downloaded [here](https://web.archive.org/web/20201127142707if_/http
 - Bag of Words (BoW)
 
 ## Word Embedding
-For the second attempt in train.py, pretrained “word2vec-google-news-300” Word2Vec model is used.
+For the second attempt in train2.py, pretrained “word2vec-google-news-300” Word2Vec model is used.
 
 ## Models
 - Perceptron
